@@ -75,6 +75,74 @@ Master financial literacy with interactive lessons, quizzes, and progress tracki
 
 ## 🗂️ Project Structure
 
+<<<<<<< HEAD
+=======
+<!--- FOLDER_STRUCTURE_START --->
+```bash
+duolingo-clone/
+  |- actions/
+    |-- challenge-progress.ts
+    |-- user-progress.ts
+    |-- user-subscription.ts
+  |- app/
+    |-- (auth)/
+    |-- (main)/
+    |-- (marketing)/
+    |-- admin/
+    |-- api/
+    |-- lesson/
+    |-- apple-icon.png
+    |-- favicon.ico
+    |-- globals.css
+    |-- icon1.png
+    |-- icon2.png
+    |-- layout.tsx
+  |- components/
+    |-- modals/
+    |-- ui/
+    |-- banner.tsx
+    |-- feed-wrapper.tsx
+    |-- mobile-header.tsx
+    |-- mobile-sidebar.tsx
+    |-- promo.tsx
+    |-- quests.tsx
+    |-- sidebar-item.tsx
+    |-- sidebar.tsx
+    |-- sticky-wrapper.tsx
+    |-- user-progress.tsx
+  |- config/
+    |-- index.ts
+  |- db/
+    |-- drizzle.ts
+    |-- queries.ts
+    |-- schema.ts
+  |- lib/
+    |-- admin.ts
+    |-- stripe.ts
+    |-- utils.ts
+  |- public/
+  |- scripts/
+    |-- prod.ts
+  |- store/
+    |-- use-exit-modal.ts
+    |-- use-hearts-modal.ts
+    |-- use-practice-modal.ts
+  |- .gitignore
+  |- .prettierrc.json
+  |- bun.lock
+  |- components.json
+  |- constants.ts
+  |- drizzle.config.ts
+  |- environment.d.ts
+  |- eslint.config.mjs
+  |- next.config.ts
+  |- package.json
+  |- postcss.config.js
+  |- proxy.ts
+  |- tailwind.config.ts
+  |- tsconfig.json
+  |- vercel.ts
+>>>>>>> 9b80e4738de54b397d24e5637bbcf32887f96ddf
 ```
 finteens/
   ├── actions/                 # Server actions for progress & challenges
