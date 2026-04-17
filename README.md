@@ -35,7 +35,17 @@ Teenagers lack basic financial literacy, leading to poor money decisions. FINTEE
 
 ---
 
-## 🛠️ Tech Stack
+## � Screenshots
+
+<div align="center">
+  <img src="/public/Screenshots/Screenshot 2026-04-17 230202.png" alt="Dashboard" width="100%" style="max-width: 600px; margin: 10px 0; border-radius: 8px;" />
+  <img src="/public/Screenshots/Screenshot 2026-04-17 230221.png" alt="Lessons" width="100%" style="max-width: 600px; margin: 10px 0; border-radius: 8px;" />
+  <img src="/public/Screenshots/Screenshot 2026-04-17 230250.png" alt="Quests" width="100%" style="max-width: 600px; margin: 10px 0; border-radius: 8px;" />
+</div>
+
+---
+
+## �🛠️ Tech Stack
 
 **Frontend**: React 19, Next.js 16.2, TypeScript, Tailwind CSS, Shadcn/ui, Zustand  
 **Backend**: Next.js Server Actions, Drizzle ORM, Mock Data System  
